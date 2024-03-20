@@ -1,0 +1,23 @@
+# Arquivos de configuração
+.env
+
+# Dependências e módulos npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# Arquivos de build e caches
+/build/
+/.pnp/
+.pnp.js
+.cache/
+.DS_Store
+
+# Logs e saídas de teste
+/logs
+*.log
+
+# Arquivos gerados na execução
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
